@@ -4,7 +4,9 @@
 
 ## 直接预览
 
-打开 `index.html` 即可浏览博客。点击右上角“进入管理后台”登录演示后台：
+[在线 Demo：拾页个人博客](https://jhcren.github.io/learn/)
+
+点击首页右上角“进入管理后台”登录演示后台；也可直接打开 `index.html` 本地预览：
 
 - 用户名：`admin`
 - 密码：`admin123`
